@@ -1,9 +1,9 @@
-# Webpack ES6 boilerplate
+# React Webpack ES6 boilerplate
 
 [![tests][tests]][tests-url]
 [![coverage][cover]][cover-url]
 
-A minimalistic Webpack 2 ES6 boilerplate project.
+A minimalistic React Webpack 2 ES6 boilerplate project.
 
 ## Prerequisites
 
@@ -22,6 +22,7 @@ A minimalistic Webpack 2 ES6 boilerplate project.
 - [Babel](https://babeljs.io/docs/setup/#installation) (v6.26.0)
 - [ESLint](https://eslint.org/docs/user-guide/getting-started) (v4.5.0)
 - [Jest](https://facebook.github.io/jest/docs/en/getting-started.html) (v20.0.4)
+- [React](https://facebook.github.io/react/docs/hello-world.html) (v15.6.1)
 
 ## Start Dev Server
 
